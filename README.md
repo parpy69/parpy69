@@ -6,7 +6,7 @@ I'm passionate about creating interactive applications and learning new technolo
 
 **CV:**
 
-https://portfolio-cv-git-main-abdullah-khudeishs-projects.vercel.app/
+[https://portfolio-cv-theta-rouge.vercel.app/]
 
 ---
 
