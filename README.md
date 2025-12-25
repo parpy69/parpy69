@@ -4,6 +4,10 @@
 
 I'm passionate about creating interactive applications and learning new technologies. Currently focused on developing mobile apps, web games, and websites.
 
+**CV:**
+
+https://portfolio-cv-git-main-abdullah-khudeishs-projects.vercel.app/
+
 ---
 
 ## 💡 Currently Learning
